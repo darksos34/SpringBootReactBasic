@@ -28,6 +28,7 @@ class UserService {
         userRepository.deleteById(id); // Call JPA function via the Repository
     }
 
+    // post function, create new user, must have a save function
     void createUser() {
     }
 
@@ -41,5 +42,7 @@ class UserService {
     void updateUser(User user) { // Generate function
         userRepository.save(user); // Call JPA function via the Repository
     }
+
+
 
 }
