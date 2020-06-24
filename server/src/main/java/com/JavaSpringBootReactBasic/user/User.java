@@ -3,6 +3,8 @@ package com.JavaSpringBootReactBasic.user;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import org.hibernate.annotations.GenericGenerator;
 
@@ -10,7 +12,10 @@ import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
-
+/**
+ *
+ */
+@NoArgsConstructor
 @Getter
 @Setter
 @Entity
@@ -19,7 +24,7 @@ uniqueConstraints = {
         @UniqueConstraint(columnNames = "username"),
         @UniqueConstraint(columnNames = "email")
 })
-public class User {
+public class User{
 
     @Id // Database table key is the ID
     @GeneratedValue(generator = "uuid") // Generate UUID as ID
