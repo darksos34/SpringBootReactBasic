@@ -1,4 +1,4 @@
-package com.JavaSpringReactiveRest.user;
+package com.JavaSpringBootReactBasic.user;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
