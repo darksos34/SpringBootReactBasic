@@ -8,11 +8,11 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Java14.june2020</groupId>
-	<artifactId>jordy.example</artifactId>
+	<groupId>com.JavaSpringBootReactBasic</groupId>
+	<artifactId>jordy.SpringBootReact</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jordy.example</name>
-	<description>Demo project for Spring Boot</description>
+	<name>jordy.SpringBootReact</name>
+	<description>Project for Spring Boot</description>
 
 	<properties>
 		<java.version>14</java.version>

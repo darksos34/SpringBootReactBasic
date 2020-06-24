@@ -42,6 +42,8 @@ public class User {
         this.username = username;
         this.email = email;
         this.password = password;
+
+        System.out.println("Java 14");
     }
 
 }
