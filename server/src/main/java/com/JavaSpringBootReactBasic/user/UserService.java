@@ -38,11 +38,10 @@ class UserService {
                 .forEach(users::add);
         return users;  //return list of users
     }
-//    // Update user
-//    void updateUser(User user) { // Generate function
-//        userRepository.save(user); // Call JPA function via the Repository
-//    }
-//
 
+    void updateUser(User user) {// Generate function
+        userRepository.save(user);// Call JPA function via the Repository
 
+    }
 }
+

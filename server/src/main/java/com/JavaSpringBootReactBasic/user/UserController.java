@@ -27,18 +27,20 @@ public class UserController {
     }
 
     @PostMapping("/create") // Handle HTTP Post request to register new users
-    void createUser(){
+    public void createUser(){
         this.userService.createUser();
     }
 
     @DeleteMapping("/{id}")
-    public void deleteUser(String id){
+    public void deleteUser(@PathVariable String id){
         this.userService.deleteUser(id);
     }
 
     @PutMapping
-    void updateUser(){
-        return;
+    public void updateUser(@PathVariable User user){
+        this.userService.updateUser(user);
+
+
     }
 
 

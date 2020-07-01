@@ -7,6 +7,8 @@ import java.util.Optional;
 @Repository // Instruct Spring Boot that this is the Repository
 public interface UserRepository extends JpaRepository<User, String> {
 
+
+
 // needs to be conntected with the user controller
     //findById
     //findAllUsers
