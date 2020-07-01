@@ -4,3 +4,6 @@
 .idea/codeStyles/codeStyleConfig.xml
 *.xml
 *.iml
+
+# ignore intelliej folder
+.idea
