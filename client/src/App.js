@@ -3,7 +3,6 @@ import React  from "react";
 
 //Material UI style button
 import {Button, Grid} from "@material-ui/core";
-import HiddenCss from "@material-ui/core/Hidden/HiddenCss";
 
 
 function App() {
