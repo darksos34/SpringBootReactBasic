@@ -10,7 +10,7 @@ Last updated on: 26-07-2020
 </b>
 
 ### Testing with JUnit
-Building my first test to test code on quality and security
+Building my first Unit test to check my code on quality and security
 
 <br/>IntelliJ IDEA <Version 2020.1.4>
 
