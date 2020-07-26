@@ -1,16 +1,18 @@
-# SpringBootReactBasic
+##SpringBootReactBasic & Java & JUnit
 
 
 Full Stack Web Application
 
+Contributor:<br>
+<b>Jordy Hamwijk<br>
+Created on: 24-06-2020<br>
+Last updated on: 26-07-2020
+</b>
 
-Contributor:
+###Testing with JUnit
+Building my first test to test code on quality and security
 
-Jordy Hamwijk (Student Full Stack Developer @ Novi Hogeschool)
-
-Created on: 24-06-2020
-
-Last updated on: 01-07-2020
+<br/>IntelliJ IDEA <Version 2020.1.4>
 
 Setting up main project JDK 14
 
