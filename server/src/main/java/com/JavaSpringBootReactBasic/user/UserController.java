@@ -1,3 +1,14 @@
+/*
+ *
+ *  *
+ *  *  * Coding for fun created by Darksos34.
+ *  *  * Copyright (c) 2020.
+ *  *  * All rights reserved by Jordy Hamwijk
+ *  *  * Learning Computer Language.
+ *  *
+ *
+ */
+
 package com.JavaSpringBootReactBasic.user;
 
 import lombok.RequiredArgsConstructor;
@@ -36,12 +47,5 @@ public class UserController {
         this.userService.deleteUser(id);
     }
 
-    @PutMapping
-    public void updateUser(@PathVariable User user){
-        this.userService.updateUser(user);
-
 
     }
-
-
-}
