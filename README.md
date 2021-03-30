@@ -3,10 +3,10 @@
 
 Full Stack Web Application
 
-<Color>Contributor: 
+<Color>Contributor:
 <b>Jordy Hamwijk<br>
 - Created on: 24-06-2020<br>
-- Last updated on: 27-10-2020
+- Last updated on: 30-03-2021
 </b>
 
 
