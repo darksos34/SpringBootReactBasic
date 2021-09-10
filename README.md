@@ -4,8 +4,8 @@
 Full Stack Web Application
 
 <Color>Contributor:
-<b>Jordy Hamwijk<br>
-- Created on: 24-06-2020<br>
+<b>Jordy Coder<br>
+- Created on: 10-09-2020<br>
 - Last updated on: 30-03-2021
 </b>
 
