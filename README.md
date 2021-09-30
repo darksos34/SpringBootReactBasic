@@ -6,7 +6,7 @@ Full Stack Web Application
 <Color>Contributor:
 <b>Jordy Coder<br>
 - Created on: 10-09-2020<br>
-- Last updated on: 30-03-2021
+- Last updated on: 30-09-2021
 </b>
 
 
